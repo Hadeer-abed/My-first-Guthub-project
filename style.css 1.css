@@ -1,0 +1,23 @@
+#Website_header {
+color: blue;
+   font-size: 100px;
+   width: 500px;
+    padding: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+
+};
+*{
+    margin:0;
+    padding: 0;
+}
+#big_wrapper{
+    font-size: 35px;
+    padding: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+
+
+
